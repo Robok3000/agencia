@@ -20,7 +20,7 @@ address: "Providencia - Santiago"
 office_time: "Abierto las 24/7"
 
 # Build settings
-theme: minima
+theme: 
 
 
 environment: "development"
