@@ -1,0 +1,17 @@
+<nav>
+    <ul id="mobile-menu">
+        <li class="{% if page.url == '/'%} current {% else %} normal {% endif %}"><a href="{{site.url}}#home">Home</a></li>
+        <li><a href="{{site.url}}#About">Nosotros</a></li>
+        <li><a href="{{site.url}}#Services">Servicios</a></li>
+        <li><a href="{{site.url}}#portfolio">Portafolio</a></li>
+        <li><a href="{{site.url}}#team">Equio</a></li>
+        <li><a href="{{site.url}}#price">Precio</a></li>
+        <li class="{% if page.url == '/blog.html/index.html' %} current {% else %} normal {% endif %}"><a href="{{site.url}}#Blog">Blog</a>
+            <ul class="submenu">
+                <Li><a href="blog.html">Ultimo Post</a></Li>
+                <Li><a href="Blog-Details.html">Detalles del Blog</a></Li>
+            </ul>
+        </li>
+        <li><a href="#Contact">Contáctanos</a></li>
+    </ul>
+</nav>
