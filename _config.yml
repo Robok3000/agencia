@@ -3,7 +3,7 @@ title: "Mañana Studio"
 email: "2realbass@mañana.studio"
 description: >- # this means to ignore newlines until "baseurl:"
   Crecer en redes sociales no tiene trucos, crecer es una ciencia impulsada por la planificación estratégica, inspirada por el pensamiento creativo y sostenida con la experimentación continua
-baseurl: "https://robok3000.github.io" # the subpath of your site, e.g. /blog
+baseurl: "https://robok3000.github.io/agencia/" # the subpath of your site, e.g. /blog
 url: "https://robok3000.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 #General Settings
